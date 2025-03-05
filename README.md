@@ -15,7 +15,7 @@ Wrapper around [`Dio`](https://pub.dev/packages/dio) that can perform API reques
 In `pubspec.yaml` add these lines to `dependencies`
 
 ```yaml  
-hyper_net: ^0.1.0
+hyper_net: ^1.1.0
 ```  
 
 ## Usage

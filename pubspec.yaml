@@ -1,6 +1,6 @@
 name: hyper_net
 description: HyperNet is a Wrapper around Dio that can perform api request with better error handling and easily get the result of any api request.
-version: 0.1.0
+version: 1.1.0
 homepage: https://devtech365.com
 repository: https://github.com/risfat/HyperNet
 issue_tracker: https://github.com/risfat/HyperNet/issues
